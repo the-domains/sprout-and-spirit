@@ -1,6 +1,6 @@
 ---
 description: Views from the garden
-datePublished: '2016-08-09T22:58:21.905Z'
+datePublished: '2016-08-10T09:53:14.230Z'
 inNav: false
 inLanguage: null
 author: []
@@ -10,10 +10,10 @@ authors: []
 publisher: {}
 title: ''
 keywords: []
-dateModified: '2016-08-09T22:57:36.221Z'
+dateModified: '2016-08-10T09:53:13.779Z'
 inFeed: true
-starred: false
 sourcePath: _posts/2016-08-09-views-from-the-garden.md
+starred: false
 url: views-from-the-garden/index.html
 _type: Article
 
