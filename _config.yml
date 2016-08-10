@@ -1,19 +1,4 @@
-name: Sprout & Spirit
-favicon: null
-layout_spectrum: 0.51122
 typography_spectrum: 0.4517659463454038
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,23 @@ color:
   lightness: 0.4539736269507557
   saturation: 0.016937170876190066
   rhythmicContrast: 0.2285072321537882
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.51122
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Sprout & Spirit
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Garden
+    id: 4f1cf148-df35-4002-9e35-eb25c44eea1a
+    type: content
+favicon: null
 purpose: []
