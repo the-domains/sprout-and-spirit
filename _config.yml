@@ -28,5 +28,8 @@ navigation:
   - name: Garden
     id: 4f1cf148-df35-4002-9e35-eb25c44eea1a
     type: content
+  - name: Events
+    id: 3f26e87e-20d0-4a4a-8963-b17cca80f177
+    type: content
 favicon: null
 purpose: []
